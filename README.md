@@ -1,3 +1,3 @@
 # samuelzaza999.github.io
 
-## yes
+## 기말 과제입니다.
